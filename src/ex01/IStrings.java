@@ -1,8 +1,13 @@
+//Interface funcional
+
 package ex01;
+
 
 import java.util.ArrayList;
 
+@FunctionalInterface
+
 public interface IStrings {
-	ArrayList<String> stringMethods(String[] strings, String lletra);
-	
+	public ArrayList<String> stringMethods();
+
 }
