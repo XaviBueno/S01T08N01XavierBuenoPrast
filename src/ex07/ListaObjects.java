@@ -17,8 +17,11 @@ public class ListaObjects   {
 		objectes.add( "aaa");
 		objectes.add( "aaaaaa");
 		objectes.add( 43);
-		objectes.add( "aaaa");
+		objectes.add( "bbbcd");
+		objectes.add( "Cbbcd");
+		objectes.add( "cbbcd");
 		objectes.add(10);
+		objectes.add( "d");
 		
 		//Genera un array de Strings
 		
